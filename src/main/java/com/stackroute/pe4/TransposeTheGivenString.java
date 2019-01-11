@@ -1,6 +1,13 @@
-package com.pe4;
+/* Program to transpose a string
+*  input:a quick brown fox jumps over the lazy dog
+*  output:a kciuq nworb xof spmuj revo eht yzal god
+*/
+package com.stackroute.pe4;
 
 public class TransposeTheGivenString {
+    /*
+    method to transpose a string
+    */
     public String toTransposeString(String string){
         if(string != " ") {
             String[] inputString = string.split(" ");
@@ -12,11 +19,5 @@ public class TransposeTheGivenString {
             return reverseString.toString().trim();
         }
         return null;
-    }
-
-    public static void main(String[] args){
-        TransposeTheGivenString transposeTheGivenString = new TransposeTheGivenString();
-        System.out.println(transposeTheGivenString.toTransposeString("a quick brown fox jumps over the lazy dog"));
-
     }
 }

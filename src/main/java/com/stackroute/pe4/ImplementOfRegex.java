@@ -1,9 +1,16 @@
-package com.pe4;
+/* Program to find the substring, implement using Regex
+* input : This is Harry;
+* output : true;
+ */
+package com.stackroute.pe4;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class ImplementOfRegex {
+    /*
+    method to find substring using regex
+     */
     public boolean toFindSubStringUsingRegex(String string) {
         if (string != " ") {
             Pattern pattern = Pattern.compile(".*Harry.*");
@@ -13,12 +20,5 @@ public class ImplementOfRegex {
             }
         }
         return false;
-    }
-
-
-    public static void main(String[] args){
-        ImplementOfRegex implementOfRegex = new ImplementOfRegex();
-        System.out.println(implementOfRegex.toFindSubStringUsingRegex("This is Henry"));
-
     }
 }

@@ -1,6 +1,12 @@
-package com.pe4;
+/* Program which replaces all 'd' with f
+* and all 'l' with 't'
+*/
+package com.stackroute.pe4;
 
 public class ReplaceAll {
+    /*
+    method to replace all 'd' with 'f' and all 'l' with 't'
+     */
     public String replaceAllWithOther(String string) {
         if((string != " ")) {
             String toLower = string.toLowerCase();
@@ -11,9 +17,4 @@ public class ReplaceAll {
 
     }
 
-    public static void main(String[] args) {
-        ReplaceAll replaceAll = new ReplaceAll();
-        System.out.println(replaceAll.replaceAllWithOther("daily dry"));
-
-    }
 }

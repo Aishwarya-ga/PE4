@@ -1,8 +1,13 @@
-package com.pe4;
-
-import java.util.Arrays;
+/* Program to sort words lexicologically
+* input : a quick brown fox jumps over the lazy dog
+* output : "a","brown","dog","fox","jumps","lazy","over","quick","the"
+ */
+package com.stackroute.pe4;
 
 public class SortWordsOfTextAlphabetically {
+    /*
+    method to sort the words of string in alphabetical order
+     */
     public String[] toSortAlphabeticalOrder(String inputString) {
         if ((inputString != " ")) {
             String temp;
@@ -20,12 +25,5 @@ public class SortWordsOfTextAlphabetically {
             return string;
         }
         return null;
-    }
-    public static void main(String[] args){
-        SortWordsOfTextAlphabetically sortWordsOfTextAlphabetically = new SortWordsOfTextAlphabetically();
-        String[] string = sortWordsOfTextAlphabetically.toSortAlphabeticalOrder("a quick brown fox jumps over the lazy dog");
-        for(int i = 0; i<string.length;i++) {
-            System.out.println(string[i]);
-        }
     }
 }

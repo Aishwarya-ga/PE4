@@ -1,6 +1,13 @@
-package com.pe4;
+/* Program to count the occurence of character
+* input : "Java is java again java again";
+* ouput : 10
+ */
+package com.stackroute.pe4;
 
 public class CountNumOfOccurenceOfChar {
+    /*
+    method to count occurence of particular character
+     */
     public int countOccurence(String string, String ch){
         int count = 0;
         if((string != "\0") || (ch != "\0") || (string != " ") || (ch != " ")) {
@@ -9,12 +16,5 @@ public class CountNumOfOccurenceOfChar {
         }
         else
             return  0;
-
-
-
-    }
-    public static void main(String[] args){
-        CountNumOfOccurenceOfChar countNumOfOccurenceOfChar = new CountNumOfOccurenceOfChar();
-        System.out.println(countNumOfOccurenceOfChar.countOccurence("Java is java again java again ","a"));
     }
 }
