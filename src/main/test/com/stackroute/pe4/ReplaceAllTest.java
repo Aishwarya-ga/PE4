@@ -17,21 +17,21 @@ public class ReplaceAllTest {
     public void tearDown() throws Exception {
         replaceAll = null;
     }
-
+    /* method to test success */
     @Test
     public void replaceAllWithOtherSuccess() {
         String expected = "faity fry";
         String actual = replaceAll.replaceAllWithOther("daily dry");
         assertEquals(expected,actual);
     }
-
+    /* method to test failure */
     @Test
     public void replaceAllWithOtherFailure() {
         String expected = null;
         String actual = replaceAll.replaceAllWithOther(" ");
         assertEquals(expected,actual);
     }
-
+    /* method to test invalid input */
     @Test
     public void replaceAllWithOtherInvalidInput() {
         String expected = null;

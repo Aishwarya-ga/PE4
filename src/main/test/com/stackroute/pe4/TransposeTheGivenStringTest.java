@@ -17,14 +17,14 @@ public class TransposeTheGivenStringTest {
     public void tearDown() throws Exception {
         transposeTheGivenString = null;
     }
-
+    /* method to test success */
     @Test
     public void toTransposeStringSuccess() {
         String expected ="a kciuq nworb xof spmuj revo eht yzal god" ;
         String actual = transposeTheGivenString.toTransposeString("a quick brown fox jumps over the lazy dog");
         assertEquals(expected,actual);
     }
-
+    /* method to test failure */
     @Test
     public void toTransposeStringFailure() {
         String expected =null;

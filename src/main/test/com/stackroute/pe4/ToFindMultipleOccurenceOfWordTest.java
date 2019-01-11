@@ -20,7 +20,7 @@ public class ToFindMultipleOccurenceOfWordTest {
     public void tearDown() throws Exception {
         toFindMultipleOccurenceOfWord = null;
     }
-
+    /* method to test success */
     @Test
     public void toFindMultipleOccurenceSuccess() {
         List<String> expected = new ArrayList<>();
@@ -30,6 +30,7 @@ public class ToFindMultipleOccurenceOfWordTest {
                 List<String> actual = toFindMultipleOccurenceOfWord.toFindMultipleOccurence("She sells seashells by the seashore","se");
                 assertEquals(expected,actual);
     }
+    /* method to test failure */
     @Test
     public void toFindMultipleOccurenceFailure() {
         List<String> expected = null;

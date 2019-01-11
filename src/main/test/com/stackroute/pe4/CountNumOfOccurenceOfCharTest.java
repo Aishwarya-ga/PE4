@@ -17,7 +17,7 @@ public class CountNumOfOccurenceOfCharTest {
     public void tearDown() throws Exception {
         countNumOfOccurenceOfChar = null;
     }
-
+    /* method to test success */
     @Test
     public void countOccurenceSuccess() {
         int expected = 10;
@@ -26,7 +26,7 @@ public class CountNumOfOccurenceOfCharTest {
         //Assert
         assertEquals(expected,actual);
     }
-
+    /* method to test failure */
     @Test
     public void countOccurenceFailure() {
         int expected = 0;
@@ -35,7 +35,7 @@ public class CountNumOfOccurenceOfCharTest {
         //Assert
         assertEquals(expected,actual);
     }
-
+    /* method to test invalid input */
     @Test
     public void countOccurenceInvalidInput() {
         int expected = 0;

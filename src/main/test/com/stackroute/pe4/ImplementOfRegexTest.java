@@ -17,7 +17,7 @@ public class ImplementOfRegexTest {
     public void tearDown() throws Exception {
         implementOfRegex = null;
     }
-
+    /* method to test success */
     @Test
     public void toFindSubStringUsingRegexSuccess() {
         boolean expected = true;
@@ -26,7 +26,7 @@ public class ImplementOfRegexTest {
         //assert
         assertEquals(expected,actaul);
     }
-
+    /* method to test failure */
     @Test
     public void toFindSubStringUsingRegexFailure() {
         boolean expected = false;
@@ -35,7 +35,7 @@ public class ImplementOfRegexTest {
         //assert
         assertEquals(expected,actaul);
     }
-
+    /* method to test invalid input */
     @Test
     public void toFindSubStringUsingRegexInvalidInput() {
         boolean expected = false;

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c37185-023a-406c-8233-55772a2b3110" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pe4/CountNumOfOccurenceOfChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CountNumOfOccurenceOfChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pe4/ImplementOfRegex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ImplementOfRegex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pe4/ReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ReplaceAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pe4/SortWordsOfTextAlphabetically.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortWordsOfTextAlphabetically.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pe4/ToFindMultipleOccurenceOfWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ToFindMultipleOccurenceOfWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pe4/TransposeTheGivenString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/TransposeTheGivenString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/pe4/CountNumOfOccurenceOfCharTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CountNumOfOccurenceOfCharTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/pe4/ImplementOfRegexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ImplementOfRegexTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/pe4/ReplaceAllTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ReplaceAllTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/pe4/SortWordsOfTextAlphabeticallyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/SortWordsOfTextAlphabeticallyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/pe4/ToFindMultipleOccurenceOfWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ToFindMultipleOccurenceOfWordTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/pe4/TransposeTheGivenStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/TransposeTheGivenStringTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="96c37185-023a-406c-8233-55772a2b3110" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +14,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CountNumOfOccurenceOfCharTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="24" column="93" lean-forward="true" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="93" />
+            <state relative-caret-position="300">
+              <caret line="24" column="93" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -37,7 +23,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ImplementOfRegexTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
+            <state relative-caret-position="300">
               <caret line="24" column="82" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="82" />
             </state>
           </provider>
@@ -46,11 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CountNumOfOccurenceOfChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="45">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#503#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -67,10 +50,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ImplementOfRegex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="75">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
-                <element signature="e#0#569#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -89,10 +71,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ToFindMultipleOccurenceOfWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
+            <state relative-caret-position="75">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
-                <element signature="e#0#1107#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -102,11 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/TransposeTheGivenString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#643#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -114,11 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortWordsOfTextAlphabetically.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="45">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#846#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -160,10 +135,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="67" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="734" />
     <option name="y" value="27" />
-    <option name="width" value="579" />
+    <option name="width" value="569" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -172,8 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,6 +184,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,7 +196,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547200582924" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PE5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -320,8 +295,8 @@
       <item itemvalue="Application.SortWordsOfTextAlphabetically" />
       <item itemvalue="Application.ToFindMultipleOccurenceOfWord" />
       <item itemvalue="JUnit.SortWordsOfTextAlphabeticallyTest" />
-      <item itemvalue="JUnit.SortWordsOfTextAlphabeticallyTest.toSortAlphabeticalOrderInvalidInput" />
       <item itemvalue="JUnit.SortWordsOfTextAlphabeticallyTest.toSortAlphabeticalOrderFailure" />
+      <item itemvalue="JUnit.SortWordsOfTextAlphabeticallyTest.toSortAlphabeticalOrderInvalidInput" />
     </list>
     <recent_temporary>
       <list>
@@ -379,10 +354,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="25" width="1307" height="743" extended-state="7" />
-    <editor active="true" />
+    <frame x="59" y="25" width="1307" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.295797" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3005551" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -463,15 +437,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CountNumOfOccurenceOfCharTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="24" column="93" lean-forward="true" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="93" />
+        <state relative-caret-position="300">
+          <caret line="24" column="93" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="93" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ImplementOfRegexTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
+        <state relative-caret-position="300">
           <caret line="24" column="82" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CountNumOfOccurenceOfChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -482,22 +463,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CountNumOfOccurenceOfChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ImplementOfRegex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="75">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="e#0#569#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -510,34 +480,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortWordsOfTextAlphabetically.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#846#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ToFindMultipleOccurenceOfWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
+        <state relative-caret-position="75">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
-            <element signature="e#0#1107#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortWordsOfTextAlphabetically.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/TransposeTheGivenString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#643#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
